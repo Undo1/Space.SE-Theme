@@ -1,0 +1,38 @@
+div.status.answered {
+    color: orange;
+}
+
+div.status.answered-accepted {
+    background-color: rgb(255,230,200);
+    color: orange;
+}
+
+a.post-tag {
+    border: 1px solid rgba(0,0,0,0);
+}
+
+div.bounty-indicator {
+    background-color: red;
+}
+
+div.status.unanswered {
+    color: red;
+}
+
+div.module.community-bulletin {
+    background-color: white;
+}
+
+div.container {
+    background-color: black
+;
+}
+
+#content {
+    background-color: white;
+    margin-top: 15px;
+    border-radius: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border: 2px solid rgba(0,0,0,0.2);
+}
